@@ -20,7 +20,7 @@ This project is designed to help users manage their daily tasks with categories,
 
 ## 🚀 How to Run
 1. Clone this repository:
-   `git clone [رابط الـ Repository الخاص بك هنا]`
+   `git clone https://github.com/KhaledKiyo/SmartConnect-Todo`
 2. Install dependencies:
    `flutter pub get`
 3. Run the app:
